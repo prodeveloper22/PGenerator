@@ -16,6 +16,7 @@ Copy‑to‑clipboard button
 Clean and simple UI
 
 📜 Version History
+
 🔴 PGenerator 1 — Gone Forever
 The original version. Basic password generator that generates 8 character password in shell. No longer available.
 
