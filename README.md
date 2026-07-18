@@ -1,11 +1,80 @@
-🔴 PGenerator 1: Gone Forever :(
-🟢 PGenerator 2: CURRENT VERSION! Updates: New special characters and password length up to 16 characters instead of 8!
-🟡 PGenerator 3: YET TO COME! Updates: In a Python Window with a Simple and easy design!
-🟡 PGenerator 4: YET TO COME! Updates: A scroll bar where you can decide length of password from 8-32 characters!
-🟡 PGenerator 5: YET TO COME! Updates: A small menu inside window where you can enable if the Password can have Letters, Numbers or Special Characters!
-And more to come!
-⭐ How to run PGenerator: 
-1: Download the file and save it as for example: pgenerator.py
-2: Open the pgenerator.py file and run it in a Python Code debugger/runner like Thonny.
-3: Run the code and you get the Password in a shell where you can copy it! 
-(Quick Tip 💻: Remember to save the Password somewhere safe maybe in a Document or something similar. Also enable a Password manager in your browser if you want because it is much easier and also keeps your Password saved, and safe! :D 😃)
+⭐ PGenerator — Password Generator Series
+A simple, evolving password generator project written in Python.
+Each version introduces new features, better design, and more customization options.
+
+🚀 Current Version: PGenerator 3
+PGenerator 3 introduces a full Python window interface with:
+
+White background
+
+Blue buttons
+
+16‑character password generation
+
+Copy‑to‑clipboard button
+
+Clean and simple UI
+
+📜 Version History
+🔴 PGenerator 1 — Gone Forever
+The original version. Basic password generator that generates 8 character password in shell. No longer available.
+
+🔴 PGenerator 2 — Previous Version
+Updates:
+
+Added new special characters
+
+Increased password length from 8 → 16 characters
+
+Output shown in the Python shell
+
+🟢 PGenerator 3 — Current Version
+Updates:
+
+Full Python window (Tkinter)
+
+Simple and easy design
+
+“Generate Password” button
+
+“Copy Password” button
+
+16‑character password with letters, numbers, and special characters
+
+🟡 PGenerator 4 — Coming Soon
+Planned Updates:
+
+Scroll bar to choose password length from 8–32 characters
+
+🟡 PGenerator 5 — Coming Soon
+Planned Updates:
+
+Small menu inside the window
+
+Toggle letters / numbers / special characters
+
+More customization options
+
+💻 How to Run PGenerator
+Download the file (for example: pgenerator.py)
+
+Open the file in a Python editor like Thonny
+
+Run the program
+
+Generate your password and copy it
+
+💡 Quick Tip
+Keep your password somewhere safe — maybe in a document or a secure note.
+You can also enable a password manager in your browser to store and protect your passwords automatically.
+
+⭐ Want to help improve PGenerator?
+You can contribute by:
+
+Suggesting new features
+
+Reporting bugs
+
+Creating UI improvements
+
+Helping with documentation
